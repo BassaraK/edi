@@ -22,4 +22,12 @@
 		<phone type="work">6660611</phone>
 		<notes>my best friend</notes>
 	</contact>
+	<contact>
+		<name>Kacper</name>
+		<name>Piotr</name>
+		<surname>Bassara</surname>
+		<email type="personal">kacper.bassara@gmail.com</email>
+		<phone type="home">880961737</phone>
+		<notes>My data</notes>
+	</contact>
 </contacts>

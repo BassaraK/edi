@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<films>
+    <film>
+        <title>Brokeback Mountain</title>
+        <genre>Drama</genre>
+        <year>2005</year>
+        <personal_rating>9/10</personal_rating>
+        <director>Ang Lee</director>
+        <actors>Jake Gyllenhall, Heath Ledger, Ann Hathaway</actors>
+    </film>
+
+    <film>
+        <title>Swiss Army Man</title>
+        <genre>Drama, Comedy</genre>
+        <year>2016</year>
+        <personal_rating>8/10</personal_rating>
+        <director>Dan Kwan</director>
+        <actors>Paul Dano, Daniel Radcliffe</actors>
+    </film>
+
+    <film>
+        <title>Source Code</title>
+        <genre>Thriller, Sci-Fi</genre>
+        <year>2011</year>
+        <personal_rating>8/10</personal_rating>
+        <director>Duncan Jones</director>
+        <actors>Jake Gyllenhall, Michelle Monaghan</actors>
+    </film>
+
+    <film>
+        <title>Cast Away</title>
+        <genre>Drama</genre>
+        <year>2000</year>
+        <personal_rating>8/10</personal_rating>
+        <director>Robert Zemeckis</director>
+        <actors>Tom Hanks, Helen Hunt</actors>
+    </film>
+
+    <film>
+        <title>Passengers</title>
+        <genre>Sci-Fi</genre>
+        <year>2016</year>
+        <personal_rating>7/10</personal_rating>
+        <director>Morten Tyldum</director>
+        <actors>Chriss Pratt, Jennifer Lawrence, Michael Sheen</actors>
+    </film>
+
+</films>
