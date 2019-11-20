@@ -5,12 +5,17 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h3>Sticks and stones may break my bones, but words will never harm me.</h3>
+		<div onmouseover="mOver(this)" onmouseout="mOut(this)">Sticks and stones may break my bones, but words will never harm me.</div>
 		<script>
-			// a JavaScript code here ...
 			
-			// Translation:
-			// Kije i kamienie kości mi połamią, ale twoje słowa nigdy mnie nie zranią
+            function mOver(obj){
+                obj.innerHTML = " Kije i kamienie kości mi połamią, ale twoje słowa nigdy mnie nie zranią"
+            }
+            
+            function mOut(obj){
+                obj.innerHTML = "Sticks and stones may break my bones, but words will never harm me."
+            }
+           
 			
 		</script>
 	</body>
